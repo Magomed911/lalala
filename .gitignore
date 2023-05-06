@@ -1,0 +1,4 @@
+venv
+.idea
+*.рус
+__pycache__
